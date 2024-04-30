@@ -1,5 +1,5 @@
 ![logo](https://github.com/FireFeast7/FireFeast7/blob/main/coder.gif)
-<h1 align="center">Hi 👋, I'm Ameya Surana</h1>
+<h1 align="center">Hi 👋, I'm Tanay Duddalwar</h1>
 <img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif">
 <h3 align="center">Flutter App Developer , Java Developer Enthusiast ,An Engineering Student at PICT Pune.</h3>
 
