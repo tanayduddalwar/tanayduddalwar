@@ -25,9 +25,14 @@
   <a href="https://postman.com" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanayduddalwar&show_icons=true&locale=en&layout=compact" alt="tanayduddalwar" /></p>
+## GitHub Stats
+<p align="center">
+<div>
+<img height = "180" width = "500" src="https://github-readme-stats.vercel.app/api?username=tanayduddalwar&show_icons=true&theme=outrun" alt="tanayduddalwar">
+<img height = "180" width = "500" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanayduddalwar&show_icons=true&locale=en&layout=compact&theme=outrun" alt="tanayduddalwar">
+<!<img height = "180" width = "500" src="http://github-readme-streak-stats.herokuapp.com?user=tanayduddalwar&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" alt="tanayduddalwar" />
+</div>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanayduddalwar&show_icons=true&locale=en" alt="tanayduddalwar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanayduddalwar&" alt="tanayduddalwar" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanayduddalwar&theme=outrun" alt="tanayduddalwar" />
 
