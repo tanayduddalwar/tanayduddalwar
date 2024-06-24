@@ -11,6 +11,9 @@
 
 - 📫 How to reach me **tanay2duddalwar@gmail.com**
 
+[What is TLP and NAT in Backend](https://medium.com/@tanay2duddalwar/how-does-tlp-nat-works-in-backend-e84b5893fa78)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
